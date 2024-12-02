@@ -9,7 +9,7 @@
             Console.WriteLine($"Sum of int -12345: {IntegerDigitSummation(-12345)}"); //13
             Console.WriteLine($"Sum of string 12345: {StringDigitSummation("12345")}"); //15
             Console.WriteLine($"Sum of string -12345: {StringDigitSummation("-12345")}"); //13
-            Console.WriteLine($"Sum of string -3njkfnodl53nsdf543: {StringDigitSummation("-3njkfno-1dl53nsdf543")}"); //16
+            Console.WriteLine($"Sum of string -3njkfno-1dl53nsdf543: {StringDigitSummation("-3njkfno-1dl53nsdf543")}"); //16
         }
 
         // Sums digits if input is an int
